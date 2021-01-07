@@ -5,6 +5,7 @@ import { About } from './About'
 import { Contact } from './Contact'
 import { Mission } from './Mission'
 import { Projects } from './Projects'
+import { Services } from './Services'
 import { NoMatch } from './NoMatch'
 import { Layout } from './components/Layout';
 import { NavigationBar } from './components/NavigationBar';
@@ -24,6 +25,7 @@ function App() {
           <Route  path="/contact" component={Contact} />
           <Route  path="/Projects" component={Projects} />
           <Route  path="/Mission" component={Mission} />
+          <Route  path="/Services" component={Services} />
           <Route   component={NoMatch} />
           </Switch>
         </Router>

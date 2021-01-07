@@ -29,7 +29,7 @@ export const NavigationBar = () => (
               <Nav.Item><Nav.Link href="/about" className="font-weight-bolder">About   &nbsp;  &nbsp;|</Nav.Link></Nav.Item>
               <Nav.Item><Nav.Link href="/projects" className="font-weight-bolder">Projects   &nbsp;  &nbsp;|</Nav.Link></Nav.Item>
               <Nav.Item><Nav.Link href="/Mission" className="font-weight-bolder">Mission   &nbsp;  &nbsp;|</Nav.Link></Nav.Item>
-              <Nav.Item><Nav.Link href="/Contact" className="font-weight-bolder">Services   &nbsp;  &nbsp;| </Nav.Link></Nav.Item>
+              <Nav.Item><Nav.Link href="/Services" className="font-weight-bolder">Services   &nbsp;  &nbsp;| </Nav.Link></Nav.Item>
               <Nav.Item><Nav.Link href="/Contact" className="font-weight-bolder">Our People   &nbsp;  &nbsp;|</Nav.Link></Nav.Item>
               <Nav.Item><Nav.Link href="/Contact" className="font-weight-bolder">Contact  &nbsp;  &nbsp; </Nav.Link></Nav.Item>
             </Nav>
